@@ -26,7 +26,7 @@ plt.ylabel='f(x)'
 ```
 
 
-![png](README/output_5_0.png)
+![png](/README/output_5_0.png)
 
 
 
