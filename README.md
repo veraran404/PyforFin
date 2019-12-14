@@ -1,4 +1,4 @@
-# A note of book <Python for Finance> by Yves Hilpisch
+# A note of book 'Python for Finance' by Yves Hilpisch
 
 [Chapter 6: Financial Time Series](PyforFin_Chapter6/PyforFin_Chaper6.md)
 
