@@ -3,3 +3,5 @@
 [Chapter 6: Financial Time Series](PyforFin_Chapter6/PyforFin_Chaper6.md)
 
 [Chapter 9: Mathematical Tools](PyforFin_Chapter9/PyforFin_Chapter9.md)
+
+[Chapter 10: Stochastics](PyforFin_Chapter10/PyforFin_Chapter10.md)
